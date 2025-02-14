@@ -1,4 +1,4 @@
-# Gotham encontra Nova York;
+# Gotham encontra Nova York
 
 ## 📒 Descrição
 Criação de uma imagem, de uma mini história e de uma narração com IAs
@@ -7,10 +7,8 @@ Criação de uma imagem, de uma mini história e de uma narração com IAs
 Gemini e Eleven Labs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A imagem e o texto foram criados com o Gemini, enquanto que a narração foi criada com o ElevenLabs. O processo foi bem simples e rápido.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados estão expostos nesse repositório, na pasta "desafio_pedro".
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
